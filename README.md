@@ -29,6 +29,20 @@ I’m passionate about building secure and scalable systems. As a Cyber Security
 
 ---
 
+<h3 align="left">👾   My Contribution Activity :</h3>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snbhowmik/snbhowmik/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snbhowmik/snbhowmik/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/snbhowmik/snbhowmik/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+---
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-snbhowmik-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/snbhowmik)
@@ -44,7 +58,5 @@ I’m passionate about building secure and scalable systems. As a Cyber Security
 🏆 **Achievements & Certifications:**  
 *Will be updated soon!*
 -->
-
----
 
 _Always learning. Always building. Always secure._
